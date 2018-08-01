@@ -1,0 +1,19 @@
+{
+  "name": "threejs_tasty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  },
+  "dependencies": {
+    "three": "^0.95.0",
+    "three-orbitcontrols": "^2.1.2"
+  }
+}
