@@ -13,7 +13,7 @@
     "parcel-bundler": "^1.10.0"
   },
   "dependencies": {
-    "three": "^0.95.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.1.2"
   }
 }
